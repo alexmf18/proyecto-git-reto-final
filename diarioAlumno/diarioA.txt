@@ -1,1 +1,4 @@
-Aquí viene tu diario
+09:00: despertarse
+09:30: desayunar
+10:00: estudiar
+15:00: comer
